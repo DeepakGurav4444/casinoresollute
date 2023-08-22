@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361136322436",
+    "project_id": "vashishthademo",
+    "storage_bucket": "vashishthademo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361136322436:android:cfb787c390f0f8d7668fd1",
+        "android_client_info": {
+          "package_name": "com.example.fireabase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361136322436-c3c9isf3gmp4kforiiq40gt2u4h6nfqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOmoUMtiZWjF7u900bZg4Rlhsqj7RG9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361136322436-c3c9isf3gmp4kforiiq40gt2u4h6nfqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
